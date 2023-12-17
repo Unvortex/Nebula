@@ -16,6 +16,7 @@ Below are the tools I have publicly released so far (my other ones are way too b
 
 **In the Future**:
 * Snapping
+* "Do not fade" toggle (Does not fade when a player is nearby element)
 * Better Responsiveness
 * Importing/Saving xmlyt files to tweak at a later time
 * Individual Component Dragging (Like being able to move Star coin 1 and Star coin 2 separately, etc.)
