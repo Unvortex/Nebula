@@ -27,7 +27,7 @@ Below are the tools I have publicly released so far (my other ones are way too b
 * Refreshing completely resets all modifications (This will be replaced with a button in the future)
 
 ---
-Let me know if there is anything else I should add through github's issues or .
+Let me know if there is anything else I should add through github's issues using the appropriate tag.
 
 You guys can always take a look at the source and modify for yourselves, I would be happy to commit any improvements/optimizations made to the site.
 
