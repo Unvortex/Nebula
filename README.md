@@ -25,7 +25,7 @@ Below are the tools I have publicly released so far (my other ones are way too b
 * Conversion to brlyt
 
 **Known Issues**:
-* The box which triggers the elements to fade out when a player is nearby is in the same spot (This will be fixed)
+* The box which triggers the elements to fade out when a player is nearby does not move except for the score (This will be fixed)
 * Star coin collect animations play in their original positions (This will be fixed)
 * Refreshing completely resets all modifications (This will be replaced with a button in the future)
 
